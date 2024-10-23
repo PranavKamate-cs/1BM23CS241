@@ -1,5 +1,5 @@
 #include<stdio.h>
-# define MAX 10
+# define MAX 3
 int q[MAX],front=-1,rear=-1,val;
 void insert(int val);
 int delete();
@@ -36,6 +36,11 @@ void main(){
             case 4:{
                 newqueue();
                 printf("New queue is created.\n");
+                break;
+            }
+            case 5:{
+                printf("Exiting...\n");
+                break;
             }
             default:{
                 printf("Wrong option!!\n");
