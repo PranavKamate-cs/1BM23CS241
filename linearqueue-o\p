@@ -1,0 +1,67 @@
+1-> Insert
+2->Delete
+3->Display
+4->New Queue
+5->Exit
+
+Enter your choise:3
+
+Queue is empty.
+
+Enter your choise:2
+
+The queue is empty.
+
+Enter your choise:1
+
+Enter the number to be inserted:10
+
+
+Enter your choise:1
+
+Enter the number to be inserted:20
+
+
+Enter your choise:1
+
+Enter the number to be inserted:30
+
+
+Enter your choise:3
+
+The queue is:10 20 30
+
+
+Enter your choise:1
+
+Enter the number to be inserted:40
+
+The Queue is full.
+
+Enter your choise:3
+
+The queue is:10 20 30 
+
+
+Enter your choise:2
+
+The deleted element is:10
+
+
+Enter your choise:2
+
+The deleted element is:20
+
+
+Enter your choise:2
+
+The deleted element is:30
+
+
+Enter your choise:3
+
+Queue is empty.
+
+Enter your choise:5
+
+Exiting...
